@@ -9,7 +9,7 @@ This project aims to predict flight ticket prices using machine learning techniq
 - **Machine Learning Model**: Utilizes the K-Nearest Neighbors (KNN) algorithm for regression tasks.
 - **Web Interface**: Built with Flask, allowing users to input flight details and receive price predictions.
 - **Model Training Notebook**: Includes a Jupyter Notebook (`model_training.ipynb`) detailing the data preprocessing, model training, and evaluation processes.
-- **Pre-trained Model**: A serialized KNN model (`flight_knn.pkl`) is provided for immediate use. ([sairasmi/flight-price-prediction - GitHub](https://github.com/sairasmi/flight-price-prediction?utm_source=chatgpt.com))
+- **Pre-trained Model**: A serialized KNN model (`flight_knn.pkl`) is provided for immediate use.
 
 ## 🗂️ Project Structure
 
@@ -35,7 +35,7 @@ Flight-Price-Prediction-Model/
 ### Prerequisites
 
 - Python 3.x
-- pip (Python package installer) ([Mandal-21/Flight-Price-Prediction - GitHub](https://github.com/Mandal-21/Flight-Price-Prediction?utm_source=chatgpt.com))
+- pip (Python package installer) 
 
 ### Installation
 
