@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project aims to predict flight ticket prices using machine learning techniques. By analyzing various features related to flights, the model provides price estimations to assist users in making informed booking decisions. The application is built using Python and Flask, offering a user-friendly web interface for input and output. ([DrPoojaAbhijith/Project-Predicting-flight-booking-prices. - GitHub](https://github.com/DrPoojaAbhijith/Project-Predicting-flight-booking-prices.?utm_source=chatgpt.com))
+This project aims to predict flight ticket prices using machine learning techniques. By analyzing various features related to flights, the model provides price estimations to assist users in making informed booking decisions. The application is built using Python and Flask, offering a user-friendly web interface for input and output. 
 
 ## 🧠 Features
 
